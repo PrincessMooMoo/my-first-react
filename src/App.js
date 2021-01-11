@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>There are the wild things</p>
       </header>
     </div>
   );
